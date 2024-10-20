@@ -36,7 +36,7 @@ All prices are listed in both Brazilian Real (BRL) and Euros (EUR).
 
   | Duration | Cost (BRL) | Cost (EUR) |
   |----------|------------|------------|
- | **Per Ride** | 15 BRL      | €2.50      |
+  | **Per Ride** | 15 BRL      | €2.50      |
   | **Daily (2 rides)** | 30 BRL      | €5.00      |
   | **Weekly (14 rides)** | 210 BRL     | €35.00     |
   | **3 Weeks (42 rides)** | 630 BRL     | €105.00    |
