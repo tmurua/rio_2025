@@ -177,12 +177,9 @@ Assuming higher-end accommodation, extensive use of Uber and car rental, higher 
   - **Cascatinha Taunay (Teresópolis):** A stunning waterfall surrounded by lush greenery.
   - **Cachoeira da Fumaça (Petrópolis):** One of the highest waterfalls in Brazil, offering breathtaking views.
 - **Hike in Tijuca National Park:** Explore one of the largest urban rainforests in the world with various trails and scenic spots.
-- **Take a Samba Class:** Immerse yourself in Brazilian culture by learning samba dancing.
-- **Visit the Christ the Redeemer Statue:** Experience one of the New Seven Wonders of the World with panoramic views of Rio.
 - **Explore Sugarloaf Mountain:** Take a cable car ride to enjoy stunning views of the city and coastline.
 - **Attend a Football Match:** Experience the passion of Brazilian football by watching a local game.
 - **Enjoy a Sunset at Arpoador:** Witness one of the most beautiful sunsets in Rio from the rocky peninsula between Ipanema and Copacabana.
 - **Visit the Botanical Garden:** Relax and enjoy the diverse flora and tranquil environment.
 - **Explore the Museum of Tomorrow:** Engage with interactive exhibits focused on sustainability and the future.
 
-Enjoy your trip to Rio de Janeiro!
